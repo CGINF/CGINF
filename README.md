@@ -18,8 +18,7 @@ Here are some ideas to get you started:
 
 ![image](https://user-images.githubusercontent.com/123674855/231827634-807fd975-85de-4af7-82d6-37bc828ca948.png)
 
-<iframe src="https://www.gov.br/servidor/pt-br/observatorio-de-pessoal-govbr" width="550" height="388" allowfullscreen="" style=""></iframe>
-  
+ 
 <div> 
 <div align="center">
   <a href="https://github.com/CGINF">
